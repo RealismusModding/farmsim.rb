@@ -35,8 +35,8 @@ module FarmSim
         copyAsset("modDesc.xml")
       end
 
-
       private
+
         def descExists?
           return (@path + "farmsim.yml").exist?
         end

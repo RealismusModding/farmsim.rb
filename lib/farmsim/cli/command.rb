@@ -1,4 +1,5 @@
 require "farmsim/cli"
+require "farmsim/project"
 require "farmsim/tools/system"
 require "farmsim/tools/formatter"
 
@@ -32,6 +33,13 @@ module FarmSim
 
       on("-q", "--silent", "Silent mode") do |c|
         c.quiet_mode = true
+      end
+
+      on("--farmsimfile FILE", "farmsim.yml file") do |c, file|
+        c.target_farmsim = Pathname.getwd + file
+        puts(c.target_farmsim.to_path)
+
+        c.error "FarmSim file '#{file}' not found" if not c.target_farmsim.exist?
       end
 
       def self.command_name
@@ -72,7 +80,7 @@ module FarmSim
         end
       end
 
-      attr_accessor :arguments, :config, :force_interactive, :formatter, :debug, :quiet_mode
+      attr_accessor :arguments, :config, :force_interactive, :formatter, :debug, :quiet_mode, :target_farmsim
       attr_reader :input, :output
       alias_method :debug?, :debug
 
@@ -85,6 +93,23 @@ module FarmSim
           public_send("#{key}=", value) if respond_to? "#{key}="
         end
         @arguments ||= []
+      end
+
+      # Utilities for commands
+      def projectRoot
+        if target_farmsim
+          return target_farmsim.dirname
+        else
+          return Pathname.getwd
+        end
+      end
+
+      def projectFilePath
+        if target_farmsim
+          return target_farmsim
+        else
+          return Pathname.getwd + "farmsim.yml"
+        end
       end
 
       def terminal
@@ -164,28 +189,27 @@ module FarmSim
         end
       end
 
-      private
-        def color(line, style)
-          return line.to_s unless interactive?
-          terminal.color(line || '???', Array(style).map(&:to_sym))
-        end
+      def color(line, style)
+        return line.to_s unless interactive?
+        terminal.color(line || '???', Array(style).map(&:to_sym))
+      end
 
-        def interactive?(io = output)
-          return io.tty? if force_interactive.nil?
-          force_interactive
-        end
+      def interactive?(io = output)
+        return io.tty? if force_interactive.nil?
+        force_interactive
+      end
 
-        def warn(message)
-          write_to($stderr) do
-            say color(message, :error)
-            yield if block_given?
-          end
+      def warn(message)
+        write_to($stderr) do
+          say color(message, :error)
+          yield if block_given?
         end
+      end
 
-        def error(message, &block)
-          warn(message, &block)
-          exit 1
-        end
+      def error(message, &block)
+        warn(message, &block)
+        exit 1
+      end
     end
   end
 end
