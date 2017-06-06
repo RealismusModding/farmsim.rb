@@ -25,7 +25,19 @@ Or install it yourself as:
 
 ## Usage
 
-Build the mod in current directory and install it in the Farming Simulator mods folder:
+To start a new mod, run:
+```sh
+fs init myMod
+cd myMod
+```
+This will create a new folder 'myMod' with a modDesc, src/loader.lua, farmsim.yml and base translation file.
+
+You can configure the builds using the `config` command, for example, setting debug flag on:
+```sh
+fs config templates.debug=true
+```
+
+Build the mod in current directory and install it in the Farming Simulator mods folder (assuming you configured your `~/.fsbuild.yml`):
 ```sh
 fs install
 ```
@@ -37,7 +49,7 @@ fs run
 
 Run a specific savegame:
 ```sh
-fs run 5
+fs run -s 5
 ```
 
 ## Development
