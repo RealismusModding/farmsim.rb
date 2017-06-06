@@ -25,14 +25,14 @@ module FarmSim
     end
 
     def load(data)
-      @name ||= data["name"]
-      @version ||= data["version"]
-      @main ||= data["main"]
-      @multiplayer ||= data["multiplayer"]
+      @name         ||= data["name"]
+      @version      ||= data["version"]
+      @main         ||= data["main"]
+      @multiplayer  ||= data["multiplayer"]
 
-      @zip_name ||= data["zip_name"]
+      @zip_name     ||= data["zip_name"]
       @desc_version ||= data["desc_version"]
-      @templates ||= data["templates"]
+      @templates    ||= data["templates"]
 
       if data["translations"]
         @base_language ||= data["translations"]["base"]
@@ -41,6 +41,23 @@ module FarmSim
     end
 
     def write(path)
+      object = {
+        "name" => @name,
+        "version" => @version,
+        "main" => @main,
+        "multiplayer" => @multiplayer,
+
+        "zip_name" => @zip_name,
+        "desc_version" => @desc_version,
+        "templates" => @templates,
+
+        "translations" => {
+          "base" => @base_language,
+          "languages" => @languages
+        }
+      }
+
+      File.write(path.to_path, object.to_yaml)
     end
 
     def to_s

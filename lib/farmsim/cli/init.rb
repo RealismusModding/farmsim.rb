@@ -25,7 +25,12 @@ module FarmSim
         (@path + "translations").mkdir
 
         # Create project file: farmsim.yml
-        @projectFile = FarmSim::Project.new()
+        projectFile = FarmSim::Project.new()
+        projectFile.name = projectName
+        projectFile.main = "src/loader.lua"
+        projectFile.zip_name = projectName
+
+        projectFile.write(@path + "farmsim.yml")
 
         copyAsset(".gitignore")
         copyAsset(".gitattributes")
@@ -41,14 +46,8 @@ module FarmSim
           return (@path + "farmsim.yml").exist?
         end
 
-        def writeTextFile(path, text)
-          f = File.new(path.to_path, "w")
-          f.write(text)
-          f.close
-        end
-
         def copyAsset(name, to = name)
-          writeTextFile(@path + to, FarmSim::Tools::Assets.asset("init/" + name))
+          File.write((@path + to).to_path, FarmSim::Tools::Assets.asset("init/" + name))
         end
 
     end
