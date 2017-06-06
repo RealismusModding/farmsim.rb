@@ -160,8 +160,13 @@ module FarmSim
 
       private
         def color(line, style)
-          return line.to_s
+          return line.to_s unless interactive?
           terminal.color(line || '???', Array(style).map(&:to_sym))
+        end
+
+        def interactive?(io = output)
+          return io.tty? if force_interactive.nil?
+          force_interactive
         end
     end
   end

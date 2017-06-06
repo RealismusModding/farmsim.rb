@@ -5,6 +5,7 @@ module FarmSim
     autoload :Parser,  "farmsim/cli/parser"
     autoload :Command,  "farmsim/cli/command"
 
+    autoload :Help,      "farmsim/cli/help"
     autoload :Run,      "farmsim/cli/run"
 
     extend self
@@ -20,6 +21,7 @@ module FarmSim
       command.execute
     end
 
+    # Get the command with given name
     def command(name)
       const_name = command_name(name)
       constant = CLI.const_get(const_name) if const_name =~ /^[A-Z][A-Za-z]+$/ and const_defined? const_name
