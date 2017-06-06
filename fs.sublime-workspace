@@ -1,0 +1,1416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-to",
+				"border-top-right-radius"
+			],
+			[
+				"manual",
+				"manualUrl"
+			],
+			[
+				"ga-",
+				"ga-event-label=〔attribute〕"
+			],
+			[
+				"ga-event",
+				"ga-event-category=〔attribute〕"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bakcg",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"Rea",
+				"RealismusModding"
+			],
+			[
+				"Realism",
+				"realismusmodding"
+			],
+			[
+				"inc",
+				"incomePerHour"
+			],
+			[
+				"color",
+				"colorBlind"
+			],
+			[
+				"block",
+				"blockColors"
+			],
+			[
+				"getChi",
+				"getChildAt"
+			],
+			[
+				"lae",
+				"layerId"
+			],
+			[
+				"defa",
+				"defaultMaterial"
+			],
+			[
+				"updateF",
+				"updateFoliageLayers"
+			],
+			[
+				"mater",
+				"materialId"
+			],
+			[
+				"seco",
+				"secondaryNodeName"
+			],
+			[
+				"child",
+				"childShapeId"
+			],
+			[
+				"diff",
+				"difficultyFactor"
+			],
+			[
+				"over",
+				"overdueFactor"
+			],
+			[
+				"upda",
+				"updateVisibility"
+			],
+			[
+				"folia",
+				"foliageName"
+			],
+			[
+				"_",
+				"_foliages"
+			],
+			[
+				"grass",
+				"grassId"
+			],
+			[
+				"getNum",
+				"getNumOfChildren"
+			],
+			[
+				"wheat",
+				"wheatId"
+			],
+			[
+				"scrl",
+				"scrollVisible"
+			],
+			[
+				"fruitH",
+				"fruitSpacerHeight"
+			],
+			[
+				"foote",
+				"footerY"
+			],
+			[
+				"foot",
+				"footerY"
+			],
+			[
+				"g_c",
+				"g_currentMission"
+			],
+			[
+				"Block",
+				"BLOCK_TYPE_PLANTABLE"
+			],
+			[
+				"fruitsp",
+				"fruitSpacerWidth"
+			],
+			[
+				"spacing",
+				"textSpacingHeight"
+			],
+			[
+				"textS",
+				"textSize"
+			],
+			[
+				"need",
+				"needsSlider"
+			],
+			[
+				"guide",
+				"guideHeight"
+			],
+			[
+				"num",
+				"numVisibleItems"
+			],
+			[
+				"fruitSpacer",
+				"fruitSpacerHeight"
+			],
+			[
+				"fruitSpa",
+				"fruitSpacerHeight"
+			],
+			[
+				"header",
+				"headerHeight"
+			],
+			[
+				"storIte",
+				"storeItemId"
+			],
+			[
+				"setTex",
+				"setTextColor"
+			],
+			[
+				"fruitN",
+				"fruitName"
+			],
+			[
+				"overView",
+				"overviewData"
+			],
+			[
+				"curre",
+				"currentBlock"
+			],
+			[
+				"curr",
+				"currentBlock"
+			],
+			[
+				"update",
+				"updateTextures"
+			],
+			[
+				"ferm",
+				"fermentingPercent"
+			],
+			[
+				"fer",
+				"fermentingTime"
+			],
+			[
+				"loadTe",
+				"loadTextureIdTable"
+			],
+			[
+				"xml",
+				"xmlDirectories"
+			],
+			[
+				"ss",
+				"ssDensityMapScanner"
+			],
+			[
+				"seas",
+				"seasonIconHeight"
+			],
+			[
+				"seasonI",
+				"seasonIconHeight"
+			],
+			[
+				"fruitS",
+				"fruitSpacerHeight"
+			],
+			[
+				"fruitSp",
+				"fruitSpacerHeight"
+			],
+			[
+				"ger",
+				"germinationWidth"
+			],
+			[
+				"fruitSPa",
+				"fruitSpacerHeight"
+			],
+			[
+				"get",
+				"getNormalizedScreenValues"
+			],
+			[
+				"verti",
+				"verticalCentered"
+			],
+			[
+				"render",
+				"renderText"
+			],
+			[
+				"transi",
+				"transitionHeight"
+			],
+			[
+				"trans",
+				"transitionWidth"
+			],
+			[
+				"parent",
+				"parentElement"
+			],
+			[
+				"g_",
+				"g_overlay"
+			],
+			[
+				"ssSea",
+				"ssSeasonsMenu"
+			],
+			[
+				"D",
+				"ssDensityMapScanner"
+			],
+			[
+				"ssQu",
+				"ssQueue_mt"
+			],
+			[
+				"dens",
+				"densityMapScanner"
+			],
+			[
+				"setDensity",
+				"setDensityMaskedParallelogram"
+			],
+			[
+				"ssReduc",
+				"ssReduceStrawHay"
+			],
+			[
+				"ssGr",
+				"ssGrowthManager"
+			],
+			[
+				"water",
+				"waterPerDay"
+			],
+			[
+				"husb",
+				"husbandryGetHasSpaceForTipping"
+			],
+			[
+				"hus",
+				"husbandryGetCapacity"
+			],
+			[
+				"night",
+				"nightBegin"
+			],
+			[
+				"current",
+				"currentGrowthStage"
+			],
+			[
+				"sugar",
+				"sugarBeet"
+			],
+			[
+				"fill",
+				"fillType"
+			],
+			[
+				"vol",
+				"volumeGearbox"
+			],
+			[
+				"g_ci",
+				"g_currentMission"
+			],
+			[
+				"tre",
+				"treePlanterDirtyFlag"
+			],
+			[
+				"tree",
+				"treePlanterMinDistance"
+			],
+			[
+				"ssMotor",
+				"ssMotorFailure"
+			],
+			[
+				"isOld",
+				"isOldSavegame"
+			],
+			[
+				"isNew",
+				"isNewSaveGame"
+			],
+			[
+				"FS",
+				"FS17_RM_S01_Grass"
+			],
+			[
+				"g_mod",
+				"g_modIsLoaded"
+			],
+			[
+				"snowTra",
+				"snowTracksEnabled"
+			],
+			[
+				"ssSeason",
+				"ssSeasonAdmirer"
+			],
+			[
+				"ssSnow",
+				"ssSnowAdmirer"
+			],
+			[
+				"ssGro",
+				"ssGrowthManagerData"
+			],
+			[
+				"ssWea",
+				"ssWeatherForecast"
+			],
+			[
+				"ssE",
+				"ssEconomy"
+			],
+			[
+				"help",
+				"helpLine"
+			],
+			[
+				"xm",
+				"xmlFile"
+			],
+			[
+				"ferme",
+				"fermentingDuration"
+			],
+			[
+				"bunker",
+				"bunkerSiloUpdate"
+			],
+			[
+				"forec",
+				"forecastLength"
+			],
+			[
+				"transla",
+				"translationContributors"
+			],
+			[
+				"adju",
+				"adjustAnimals"
+			],
+			[
+				"appl",
+				"appliedSnowDepth"
+			],
+			[
+				"ma",
+				"materialId"
+			],
+			[
+				"text",
+				"textureReplacements"
+			],
+			[
+				"snow",
+				"snowMode"
+			],
+			[
+				"moist",
+				"moistureEnabled"
+			],
+			[
+				"str",
+				"streamId"
+			],
+			[
+				"stram",
+				"streamWriteBool"
+			],
+			[
+				"g_gui",
+				"g_gui_CurrentDialog"
+			],
+			[
+				"ssMult",
+				"ssMultiplayerJoinEvent"
+			],
+			[
+				"crop",
+				"cropMoistureContent"
+			],
+			[
+				"prev",
+				"prevHighTemp"
+			],
+			[
+				"streamWrite",
+				"streamWriteFloat32"
+			],
+			[
+				"vehicle",
+				"vehicleInShed"
+			],
+			[
+				"latest",
+				"latestCurrentTemp"
+			],
+			[
+				"latestCu",
+				"latestCurrentTempMinute"
+			],
+			[
+				"latet",
+				"latestCurrentTempHour"
+			],
+			[
+				"currentTem",
+				"currentTemperature"
+			],
+			[
+				"soil",
+				"soilTemp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bin/fs",
+			"settings":
+			{
+				"buffer_size": 216,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/farmsim.rb",
+			"settings":
+			{
+				"buffer_size": 80,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/farmsim/cli.rb",
+			"settings":
+			{
+				"buffer_size": 82,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/farmsim/cli/run.rb",
+			"settings":
+			{
+				"buffer_size": 295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/farmsim_spec.rb",
+			"settings":
+			{
+				"buffer_size": 133,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/FSMod.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/FSMod.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"format",
+				"TypeScript: Format Document"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"forma",
+				"TypeScript: Format Selection"
+			],
+			[
+				"format doc",
+				"TypeScript: Format Document"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"typescr",
+				"TypeScript: Signature Info"
+			],
+			[
+				"form",
+				"TypeScript: Format Document"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"enable lin",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"typescript",
+				"TypeScript: Overloads Panel"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 434.0,
+		"history":
+		[
+			"print('hello')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/bin",
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/lib",
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/lib/farmsim",
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/lib/farmsim/cli",
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/spec"
+	],
+	"file_history":
+	[
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/lib/farmsim/cli/run.rn",
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/farmsim.gemspec",
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/spec/farmsim_spec.rb",
+		"/Users/joskuijpers/Development/RealismusModding/farmsim/lib/farmsim/version.rb",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/index.html",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/_includes/latest_news.html",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/.travis.yml",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/_includes/header.html",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/_pages/team.html",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/README.md",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/script/build.sh",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/Gemfile",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/_config.yml",
+		"/Users/joskuijpers/Development/RealismusModding/realismusmodding.github.io/.gitignore",
+		"/Users/joskuijpers/Development/RealismusModding/site/_config.yml",
+		"/Users/joskuijpers/Development/RealismusModding/site/mods/seasons/index.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_plugins/lead.rb",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/news/2017-06-05-seasons.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/seo.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_plugins/anchor.rb",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/video.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_plugins/strip.rb",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/blog/2017-05-04-the-road-to-seasons.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/news/2017-06-03-new-website.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/index.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/post.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_data/team.yaml",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/footer.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_data/frontpage.yaml",
+		"/Users/joskuijpers/Development/RealismusModding/site/mods/seasons/supplements.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/.travis.yml",
+		"/Users/joskuijpers/Development/RealismusModding/site/script/build.sh",
+		"/Users/joskuijpers/Development/RealismusModding/site/script/deploy.sh",
+		"/Users/joskuijpers/Development/RealismusModding/site/Gemfile",
+		"/Users/joskuijpers/Development/RealismusModding/site/assets/info.txt",
+		"/Users/joskuijpers/Development/RealismusModding/site/_sass/theme/_team.scss",
+		"/Users/joskuijpers/Development/RealismusModding/site/_pages/team.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/localnav.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/mods/index.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/head.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/default.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_sass/theme/_nav.scss",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/microdata/organization.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/microdata/publisher.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/mod.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/page.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_pages/blog.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/2016-05-10-test-post2.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/nav-breadcrumbs.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/2017-05-10-test-post.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_pages/blog_archive.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/documentation.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_sass/theme/_responsive.scss",
+		"/Users/joskuijpers/Development/RealismusModding/site/_sass/theme/_base.scss",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/single.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/base_path",
+		"/Users/joskuijpers/Development/RealismusModding/site/_sass/theme.scss",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/scripts.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/header.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_sass/theme/_footer.scss",
+		"/Users/joskuijpers/Development/RealismusModding/site/assets/img/logo.svg",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/logo.svg",
+		"/Users/joskuijpers/Development/RealismusModding/site/assets/css/bootstrap.min.css",
+		"/Users/joskuijpers/Development/RealismusModding/site/_pages/index.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_data/mods.yaml",
+		"/Users/joskuijpers/Development/RealismusModding/site/mods/seasons/manual/index.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_pages/privacy-policy.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/2017-05-04-the-road-to-seasons.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/frontpage.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_pages/404.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/pages/privacy-policy.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/robots.txt",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/scripts/cookieconsent.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/pages/index.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_site/index.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/pages/team.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/analytics.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/assets/js/autotrack.js",
+		"/Users/joskuijpers/Development/RealismusModding/site/assets/css/main.css",
+		"/Users/joskuijpers/Development/RealismusModding/site/assets/js",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/home.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/script/cibuild",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/browser_upgrade.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/index.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/splash.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/_layouts/manual.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/assets/css/normalize.css",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/analytics/google.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/about.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/_includes/favicon.html",
+		"/Users/joskuijpers/Development/RealismusModding/site/seasons/index.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/seasons/manual/index.md",
+		"/Users/joskuijpers/Development/RealismusModding/site/LICENSE",
+		"/Users/joskuijpers/Development/RealismusModding/site/.gitattributes",
+		"/Users/joskuijpers/Development/RealismusModding/site/_site/assets/main.css",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/2017-04-19-welcome-to-jekyll.markdown",
+		"/Users/joskuijpers/Development/RealismusModding/site/_posts/2017-04-20-seasons.markdown",
+		"/Users/joskuijpers/Development/RealismusModding/site/_pages/404.md",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/gui/ssSeasonsMenu.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/environment/ssSnow.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/environment/ssReplaceVisual.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/translations/translation_fr.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/README.md",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/environment/ssWeatherForecast.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/data/textures.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/misc/ssFieldJobManager.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/resources/replacementTextures/replacementTexturesMaterialHolder.i3d",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/misc/ssTreeManager.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/misc/ssEconomy.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/utils/ssUtil.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/data/animals.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/modDesc.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/objects/ssIcePlane.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/objects/ssSeasonAdmirer.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/objects/ssSnowAdmirer.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/environment/ssEnvironment.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/vehicles/specializations/ssMotorFailure.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/vehicles/ssVehicle.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/ssMain.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/resources/gui/profiles.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/resources/gui/SeasonsMenu.xml",
+		"/Users/joskuijpers/Development/RealismusModding/random/docs/g_currentMission2.txt",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/modding/RMObjectStubs.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/translations/translation_en.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src/events/ssMultiplayerJoinEvent.lua",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/resources/fakeStoreItem/item.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/resources/fakeStoreItem/item2.xml",
+		"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/CREDITS.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/joskuijpers/Development/RealismusModding/fs17_seasons/src",
+			"/Users/joskuijpers/Development/apex/app/server/",
+			"/Users/joskuijpers/Development/apex/app/",
+			"/Users/joskuijpers/Development/apex/app/client",
+			"/Users/joskuijpers/Development/apex/app/server",
+			"/Users/joskuijpers/Development/apex/db",
+			"/Users/joskuijpers/Development/apex/app/client/components",
+			"/Users/joskuijpers/Development/apex/app/client",
+			"/Users/joskuijpers/Development/apex/app",
+			"/Users/joskuijpers/Development/apex/app/server"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"og:description",
+			"images",
+			"downcase",
+			"\\t",
+			"flex",
+			"5em",
+			"cfcfcf",
+			"w3-display-container",
+			"w3-display-middle",
+			"w3",
+			"a:",
+			"w3",
+			"w3-text-white",
+			"w3",
+			"border-box",
+			"github",
+			"Utils",
+			"%.+",
+			"removeSnow",
+			"maintenanceRepairCost",
+			"overduefactor",
+			"clockPosX",
+			"fruit",
+			"SNOW_MASK_NAME",
+			"default._foliageLayers",
+			"SNOW_MASK_NAME",
+			"log(",
+			"foliage",
+			"updateFoliage",
+			"_foliages",
+			"secondaryNodeName",
+			"treeBranches_diffuse",
+			"log(",
+			"aiPricePerMSWork",
+			"log",
+			"+  ",
+			"{6067}",
+			"{3062}",
+			"6076",
+			"density",
+			"grass",
+			"foliage",
+			"dynamic",
+			"110",
+			"{110}",
+			"dynamic",
+			"pageOverview",
+			"log",
+			"replacementTextures/",
+			"shrub",
+			"FS17_",
+			"fahrenheit",
+			"germinat",
+			"germinate",
+			"canHarvestData",
+			"canPlantData",
+			"canplant",
+			"ssLoan",
+			"updateTick",
+			"build",
+			"log",
+			"getMaterial",
+			"findNodeByName",
+			"clone(",
+			"updateTextures",
+			"consoleComman",
+			"consoleCommand",
+			"dayPosY",
+			"log(",
+			"log",
+			"log(",
+			"onAdminOK",
+			"admin",
+			"moisture",
+			".moisture",
+			"diurnalTemp",
+			"ssWeatherManagerDailyEvent",
+			"isCropWet",
+			"ssYesterdayOperatingTime",
+			"yesterdayoperating",
+			"ssYesterdayOperating",
+			"ssyesterdayoperatingtime",
+			"---------------------------------------------------------------------------------------------------------",
+			"inSnow",
+			"g_currentModDirectory",
+			"\\t",
+			"canSow",
+			"currentSeason",
+			"currentSeasons",
+			"overview",
+			"textSize",
+			"toggleFilLType",
+			"save",
+			"log",
+			"listPop",
+			"listPush",
+			"ssIterateOverTerrain",
+			"currentCallBackName",
+			"jobb",
+			"startMotor",
+			"log",
+			"ssPedestrianSystem",
+			"growthTransitionNum",
+			"gt",
+			"WARNING",
+			"ssIsBroken",
+			"broken",
+			"addSnow",
+			"DIRT_FACTOR",
+			";",
+			"ssRepairVehicleEvent",
+			"calculateoverdue",
+			"calculateoverduefactor",
+			";",
+			"ssMotorized",
+			"calculateOverdueFactor",
+			"self.motorStartSoundTime",
+			"self.motorStartTries",
+			"ssSnowFillable",
+			"addrain",
+			"realismus.joskuijpers.nl",
+			"tracks",
+			"snowtracks",
+			";",
+			"ssBunkerSilo",
+			"incrementgrowthstate",
+			"doStateChange",
+			"object.item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			"rm",
+			"DebugUtil",
+			"",
+			"updateFruits",
+			"_fruits",
+			"  ",
+			"",
+			"self:findNodeByName",
+			"ssWeatherManagerHailEvent",
+			"ssLastRepairOperatingTime",
+			"----------------------------------------------------------------------------------------------------",
+			"    ",
+			"run",
+			"job",
+			"ssTrafficSystem",
+			"stage",
+			"gs",
+			"",
+			"ssVariableTreePlanterEvent",
+			"",
+			"ssMotorFailure",
+			"self.ssMotorStartSoundTime",
+			"self.ssMotorStartTries",
+			"ssMotorized",
+			"ssTedder",
+			"slack.realismusmodding.com",
+			"",
+			"ssPlaceable",
+			"bale",
+			"ssAnimalsDataEvent",
+			"ssBunkerSilo",
+			"ssSettingsEvent",
+			"ssSettings",
+			"    ",
+			"updateSoilTemp",
+			"ssWeatherManagerHourlyEvent",
+			"ssWeatherManagerDailyEvent",
+			"\"",
+			"    ",
+			"Finalize",
+			"warning_soilIsFrozen",
+			"warning_repairBrokenMachine",
+			"ssSnowFillable",
+			"germinateTemp",
+			" temp=\"\\1\" \\/>",
+			"temp=\"\\1\" \\/>",
+			"    ",
+			"fruitName=",
+			"fruit ",
+			"num",
+			"name",
+			"ssIcePlane",
+			"ssSnowAdmirer",
+			"ssRepairUpdate",
+			"ssWeatherForecast",
+			"g_seasons.environment",
+			"g_seasons.environment.daysInSeason",
+			"ssEnvironment",
+			"g_seasons.environment:addGrowthStageChangeListener(",
+			"g_seasons.environment:addSeasonChangeListener(",
+			"g_seasons.environment:seasonAtDay(",
+			"g_seasons.environment:seasonAtDay()",
+			"g_seasons.environment:currentSeason()",
+			"g_seasons.environment:currentDay()",
+			"self:currentDay()",
+			"growthStageChangeListeners",
+			"seasonChangeListeners",
+			"ssNotAllowedSoilFrozen",
+			"    ",
+			"ssEnvironment",
+			"createVersionName()",
+			"'",
+			"g_seasons",
+			"    ",
+			"controlsHelp",
+			"g_seasons.showControlsInHelpScreen",
+			"ssMain",
+			"mode",
+			"ToolTip",
+			"toolTip",
+			"setTooltipText",
+			"",
+			"ssSeasonsMenu",
+			"\\2 \\1",
+			"\\2\\t\\1",
+			"\\2 \\1",
+			"",
+			"[WorkArea.\\1] = false,",
+			"",
+			"[\"\\1\"] => false,",
+			"    ",
+			"apex.key.school",
+			"View",
+			"$scope.currentSchooljaar",
+			"Email",
+			"Template",
+			"><",
+			"",
+			"MailCandidate",
+			"\\1",
+			"JUI.",
+			"Ik",
+			"\"\\1\"",
+			"\\18",
+			"FactuurSelection",
+			": ITenant",
+			": IUser",
+			"IUser",
+			"statusCode",
+			"App\\.config\\(\\[\"$stateProvider\", \\1\\]\\);",
+			"Profiel",
+			"leerling",
+			"leerlingen",
+			"Leerling",
+			"Leerlingen",
+			"verzorger",
+			"verzorgers",
+			"Verzorger",
+			"Verzorgers",
+			"verzorgers",
+			"verzorger",
+			"Verzorgers",
+			"Leerlingen",
+			"Verzorgers",
+			"Leerlingen",
+			"Verzorger",
+			"Leerling"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bin/fs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/farmsim.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/farmsim/cli.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/farmsim/cli/run.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "spec/farmsim_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/FSMod.sublime-build",
+	"project": "fs.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
