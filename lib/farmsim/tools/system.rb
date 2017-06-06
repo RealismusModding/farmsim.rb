@@ -20,15 +20,25 @@ module FarmSim
       end
 
       def modsLocation
+        path = userdataLocation
+
+        if path
+          return path + "/mods/"
+        end
+
+        return nil
+      end
+
+      def userdataLocation
         path = nil
 
         if windows?
-          path = Pathname.new("#{ENV["HOME"]}/Documents/My Games/FarmingSimulator2017/mods")
+          path = Pathname.new("#{ENV["HOME"]}/Documents/My Games/FarmingSimulator2017/")
         else
-          path = Pathname.new("#{ENV["HOME"]}/Library/Application Support/FarmingSimulator2017/mods")
+          path = Pathname.new("#{ENV["HOME"]}/Library/Application Support/FarmingSimulator2017/")
         end
 
-        if path.exists?
+        if path.exist?
           return path
         end
 
