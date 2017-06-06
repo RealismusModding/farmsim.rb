@@ -30,6 +30,10 @@ module FarmSim
         exit
       end
 
+      on("-q", "--silent", "Silent mode") do |c|
+        c.quiet_mode = true
+      end
+
       def self.command_name
         name[/[^:]*$/].split(/(?=[A-Z])/).map(&:downcase).join('-')
       end
@@ -68,7 +72,7 @@ module FarmSim
         end
       end
 
-      attr_accessor :arguments, :config, :force_interactive, :formatter, :debug
+      attr_accessor :arguments, :config, :force_interactive, :formatter, :debug, :quiet_mode
       attr_reader :input, :output
       alias_method :debug?, :debug
 
@@ -155,7 +159,9 @@ module FarmSim
 
       # Output
       def say(data, format = nil, style = nil)
-        terminal.say format(data, format, style)
+        if not quiet_mode
+          terminal.say format(data, format, style)
+        end
       end
 
       private
