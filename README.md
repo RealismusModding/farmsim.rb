@@ -25,7 +25,20 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Build the mod in current directory and install it in the Farming Simulator mods folder:
+```sh
+fs install
+```
+
+Run Farming Simulator:
+```sh
+fs run
+```
+
+Run a specific savegame:
+```sh
+fs run 5
+```
 
 ## Development
 
