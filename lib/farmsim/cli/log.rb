@@ -10,14 +10,10 @@ module FarmSim
 
       def run
         path = FarmSim::Tools::System.userdataLocation
-        if not path
-          error "Location of log not found"
-        end
+        error "Location of log not found" if not path
 
         path = path + "log.txt"
-        if not path.exist?
-          error "Log file does not exist"
-        end
+        error "Log file does not exist" if not path.exist?
 
         File.foreach(path.to_path) { |x| print x }
       end

@@ -174,6 +174,18 @@ module FarmSim
           return io.tty? if force_interactive.nil?
           force_interactive
         end
+
+        def warn(message)
+          write_to($stderr) do
+            say color(message, :error)
+            yield if block_given?
+          end
+        end
+
+        def error(message, &block)
+          warn(message, &block)
+          exit 1
+        end
     end
   end
 end

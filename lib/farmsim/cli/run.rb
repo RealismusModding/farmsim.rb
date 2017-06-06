@@ -18,16 +18,12 @@ module FarmSim
         say "Searching for game executable..."
 
         path = FarmSim::Tools::System.gameLocation
-        if not path
-          error "Location of game not found"
-        end
+        error "Location of game not found" if not path
 
         say "Found game at #{path}"
 
         params = "-restart"
-        if savegame_id
-          params += " -autoStartSavegameId #{savegame_id}"
-        end
+        params += " -autoStartSavegameId #{savegame_id}" if savegame_id
 
         say "Starting..."
 

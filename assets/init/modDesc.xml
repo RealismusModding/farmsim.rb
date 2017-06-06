@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="">
+    <author></author>
+    <contributors></contributors>
+    <version></version>
+
+    <title>
+        <en></en>
+    </title>
+
+    <description>
+        <en></en>
+    </description>
+
+    <iconFilename>icon.dds</iconFilename>
+
+    <multiplayer supported="false"/>
+
+    <l10n filenamePrefix="translations/translation"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="src/loader.lua"/>
+    </extraSourceFiles>
+
+    <inputBindings>
+    </inputBindings>
+</modDesc>

@@ -6,8 +6,9 @@ module FarmSim
     autoload :Command,  "farmsim/cli/command"
 
     autoload :Help,      "farmsim/cli/help"
-    autoload :Run,      "farmsim/cli/run"
-    autoload :Log,      "farmsim/cli/log"
+    autoload :Run,       "farmsim/cli/run"
+    autoload :Log,       "farmsim/cli/log"
+    autoload :Init,      "farmsim/cli/init"
 
     extend self
 
