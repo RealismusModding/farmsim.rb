@@ -5,4 +5,10 @@ rvm:
 before_install: gem install bundler -v 1.15.1
 
 notifications:
+  slack:
+    rooms:
+      secure: "I9qAMLGDjHhYYD5XFn12fp/5sD3vH4p9C8oA4p5xJMkLl668vUOKI1Ld6/GMIkkvUhfCKjpxOZSTXFTe+r0CAtNVpRdRoW0umalOOtco3f2JBDgp8yHXqJd/BiWs/I7X5PxSWa2OzAX7N07pp770gcJ30E+wMSuxUyO8vvbQj4Oa9A51yo30+eKmybiKYckkXmGzDMEvU1eH9iBvVs4M1V+kn+91x83tf7HSkGJSYRAL8BgNnsbvt2xt4gcmBAxAHNw6S7MdxIepAjU6Zhvcj3+KtWRUQHv+ZAGa1VCZvfHDyw/QJhK7u3PeHnP390dECB2BwrQj+Aomcy6+9SRKtSbg/VZeHHfkD9RTeHwAQUVz4g4kiR5D0YdIpx3AGJvuDxaFYvarBXS/FbFXo5duClnoyuISIjqPcW0AnTGlQzj7UZwlC/6ZClr4lt6CGNpynLahPQ1wUQvf484/fZCx64Y2R1dlbe1N9T+gzGJnrVa0zGgctQmzUao9R20xzsRP/GlA1ghj9CPRqy0kA+UcbL1Uy5i7l6VttK20s9XOHw3irpVGD40Mt8s/+sxNX/GfgTJwAVVYvgPmcSi4ij2SUaHiJ3WSWxolMOh+28wW5dETCxX8tvotJ3YwGy6ovELTUT6CHDNG9FVPI+i9xdjP0ghjJIkcWT6akQO/YEUw2jY="
+    on_success: change
+    on_failure: always
   email: false
+
