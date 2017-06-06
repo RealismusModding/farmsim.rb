@@ -1,8 +1,6 @@
 require "farmsim/cli"
 require "farmsim/tools/system"
 
-require "shellwords"
-
 module FarmSim
   module CLI
     class Log < Command
